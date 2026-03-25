@@ -24,5 +24,4 @@ https://the-internet.herokuapp.com/login
 ## Author
 Sehresh Rathore
 Junior QA Engineer
-Junior QA Engineer
 GitHub: https://github.com/sehresh85
