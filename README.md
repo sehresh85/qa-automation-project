@@ -21,17 +21,8 @@ Negative Login Test
 
 ## Website Tested
 https://the-internet.herokuapp.com/login
-
-
-
-
-
-
-
-
 ## Author
 Sehresh Rathore
 Junior QA Engineer
-GitHub: https://github.com/sehresh85
 Junior QA Engineer
 GitHub: https://github.com/sehresh85
